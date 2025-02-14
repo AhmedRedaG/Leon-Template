@@ -159,7 +159,7 @@ header nav .hamburger div:nth-child(2) {
 
 /* Start Hero */
 .hero {
-  background-image: url("/image/landing.jpg");
+  background-image: url("../image/landing.jpg");
   background-size: cover;
   height: calc(100vh - 50px);
 }
